@@ -1,0 +1,27 @@
+#rotate{
+    height: 50px;
+    width: 200px;
+    background-color:rgb(0, 255,244);
+    transform: rotate(180deg);
+    margin: none;
+}
+#scale{
+    height: 50px;
+    width: 200px;
+    background-color:blueviolet;
+    transform: scale(1, 2);
+
+}
+#translate{
+    height: 50px;
+    width: 200px;
+    background-color:yellow;
+    transform: translate(200px, 200px);
+
+}
+#skew{
+    height: 50px;
+    width: 200px;
+    background-color:pink;
+    transform: skew(45deg);
+}

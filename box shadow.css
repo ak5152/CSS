@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 0 auto;
+    animation: font-size 2s ease-in-out 0.5s 5 alternate-reverse;
+}
+@keyframes font-size{
+    from{
+        font-size: 10px;
+    }
+    to{
+        font-size: 500px;
+    }
+}

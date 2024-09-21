@@ -1,0 +1,21 @@
+#a{
+    height: 300px;
+    width: 600px;
+    background-color:yellow;
+    display: grid;
+    grid-template-rows:auto auto auto auto;
+    grid-template-columns:auto auto auto auto;
+    grid-gap: 30px,80px;
+    place-items: center;
+}
+#a div{
+   height: 100px;
+   width: 100px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    text-align: center;
+}
+.ashu{
+    place-self: start;
+}
+

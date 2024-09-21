@@ -1,0 +1,53 @@
+#a{
+    height: 500px;
+    width: 800px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+
+    align-items:flex-start;
+    
+    
+    
+ 
+    
+}
+#a div{
+    height: 100px;
+    text-align: center;
+    font-size: large;
+    width: 20px;
+
+
+}
+    h1{
+        text-align: center;
+    }
+    #b{   width: 300px;
+        flex-grow: 3;
+        min-width: 30px;
+        flex-shrink: 20;
+    }#c{
+        width: 300px;
+        flex-grow: 2;
+        min-width: 40px;
+        flex-shrink: 20;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

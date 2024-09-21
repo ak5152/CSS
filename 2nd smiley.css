@@ -1,0 +1,33 @@
+#a{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 50%;
+}
+#b{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 90px;
+}
+#c{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 250px; 
+}
+#d{
+    width: 200px;
+    height: 75px;
+    background-color: red;
+    border-radius: 0 0 50px 50px;
+    position:absolute;
+    margin-top: 240px;
+    margin-left: 90px;
+}

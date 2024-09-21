@@ -1,0 +1,33 @@
+.a{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 50%;
+}
+.d{
+   height: 75px;
+   width: 200px;
+   background-color: red;
+   border-radius: 0 0 50px 50px; 
+   position: relative;
+   top: 170px;
+   left: 100px;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.c{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 250px;
+}

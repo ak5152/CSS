@@ -1,0 +1,23 @@
+#container{
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke;
+    border: 10px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+   
+    margin: 10px auto;
+}
+#container div{
+    height: 100px;
+    width: 120px;
+    color: black;
+    font-size: 50px;
+    background-color:skyblue;
+    text-align: center;
+    border-radius: 10px;
+}
